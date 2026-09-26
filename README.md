@@ -1,8 +1,19 @@
-# Hemapriyan R K
+<div align="center">
 
-B.Tech Computer Science and Engineering (Data Science), Vellore Institute of Technology.
+# HEMAPRIYAN R K
 
-I build **safety-critical perception systems** and **security-hardened full-stack and mobile applications**: multi-camera industrial safety, assistive navigation, a ride and food-delivery platform, and secure file handling. I am moving from AI and cybersecurity toward AI in medical systems.
+<img src="assets/hemapriyan-logo.png" alt="Hemapriyan" width="640">
+
+</div>
+
+Computer Science and Engineering (Data Science) student at Vellore Institute of Technology, Tamil Nadu.
+
+**Currently building**
+- **VIMES**: a dual-camera system that tracks people around industrial machinery and raises a risk level before they reach a hazardous zone.
+- **ORCA EYE**: a camera-based walking guidance baseline that turns depth and object detection into a stop, turn or continue command.
+- **MOVA**: a ride and food-delivery platform for Vellore, with three native Android apps and one backend.
+
+**Direction:** taking the same perception and security engineering into medical systems.
 
 ---
 
