@@ -1,16 +1,18 @@
 <div align="center">
 
-# HEMAPRIYAN R K
+<h1>HEMAPRIYAN R K</h1>
 
-<img src="assets/hemapriyan-logo.png" alt="Hemapriyan" width="640">
+Computer Science and Engineering (Data Science) · Vellore Institute of Technology
+
+[LinkedIn](https://www.linkedin.com/in/hemapriyan-rk) · [Portfolio](https://hemapriyan.vercel.app) · [GitHub](https://github.com/hemapriyan-rk)
 
 </div>
 
-Computer Science and Engineering (Data Science) student at Vellore Institute of Technology, Tamil Nadu.
+---
 
 **Currently building**
-- **VIMES**: a dual-camera system that tracks people around industrial machinery and raises a risk level before they reach a hazardous zone.
-- **ORCA EYE**: a camera-based walking guidance baseline that turns depth and object detection into a stop, turn or continue command.
+- **VIMES**: tracks people around industrial machinery across two cameras and raises a risk level before they reach a hazardous zone.
+- **ORCA EYE**: turns depth and object detection into a stop, turn or continue command for assistive walking guidance.
 - **MOVA**: a ride and food-delivery platform for Vellore, with three native Android apps and one backend.
 
 **Direction:** taking the same perception and security engineering into medical systems.
@@ -84,4 +86,4 @@ Upload a file, get a short-lived link and QR code.
 
 ## Contact
 
-GitHub: [@hemapriyan-rk](https://github.com/hemapriyan-rk)
+[LinkedIn](https://www.linkedin.com/in/hemapriyan-rk) · [Portfolio](https://hemapriyan.vercel.app) · [GitHub](https://github.com/hemapriyan-rk)
